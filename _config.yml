@@ -24,11 +24,13 @@ description: La vie est bonne!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Research: "research"
+  Projects: "projects"
   My funny little world:
     - Physics: "physics"
-    - Coding:
-    - English:
-    - 한국어: 
+    - Coding: "coding"
+    - English: "english"
+    - 한국어: "korean"
   # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
