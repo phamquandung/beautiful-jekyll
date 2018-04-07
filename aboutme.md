@@ -4,7 +4,7 @@ title: About Me
 
 ---
 
-My name is Phạm Quan Dũng. I am currently a Master student in Department of Electrical and Computer Engineering, College of Engineering, Seoul National University, Seoul, Korea
+My name is Phạm Quan Dũng (Quan-Dung Pham). I am currently a Master student in Department of Electrical and Computer Engineering, College of Engineering, Seoul National University, Seoul, Korea
 ### Research Experience
 ----
 * [**Seoul National University, Computer Architecture & Parallel Processing Lab** ](http://capp.snu.ac.kr/) 
@@ -14,10 +14,12 @@ My name is Phạm Quan Dũng. I am currently a Master student in Department of E
 ----
 * [**_Seoul National University_**](http://www.useoul.edu/), Seoul, Korea  (Aug 2018- Aug 2020) (expected)
   * _Master of Science in Electrical and Computer Engineering_
+  * _Advisor: Prof. Hyuk-Jae Lee_
 
 
 * [**_Vietnam National University- Ho Chi Minh City- Ho Chi Minh City University of Technology_**](http://www.hcmut.edu.vn/en), HCM City, Vietnam (Sep 2012- Jan 2017)
   * _Bachelor of Engineering in Electronics - Telecommunications Engineering._
+  *_Advisor: Prof. Do-Hong Tuan_
 
 
 * [**_Vietnam National University- Ho Chi Minh City- High School for the Gifted_**](http://www.ptnk.edu.vn/), HCM City, Vietnam (Sep 2009- Sep 2012)
