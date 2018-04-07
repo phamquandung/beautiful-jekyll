@@ -19,7 +19,7 @@ My name is Phạm Quan Dũng (Quan-Dung Pham). I am currently a Master student i
 
 * [**_Vietnam National University- Ho Chi Minh City- Ho Chi Minh City University of Technology_**](http://www.hcmut.edu.vn/en), HCM City, Vietnam (Sep 2012- Jan 2017)
   * _Bachelor of Engineering in Electronics - Telecommunications Engineering._
-  *_Advisor: Prof. Do-Hong Tuan_
+  * _Advisor: Prof. Do-Hong Tuan_
 
 
 * [**_Vietnam National University- Ho Chi Minh City- High School for the Gifted_**](http://www.ptnk.edu.vn/), HCM City, Vietnam (Sep 2009- Sep 2012)
