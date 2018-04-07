@@ -8,7 +8,7 @@ My name is Phạm Quan Dũng. I am currently a Master student in Department of E
 ### Research Experience
 ----
 * **Seoul National University**
-[**Computer Architecture & Parallel Processing Lab** ](http://capp.snu.ac.kr/) 
+\[**Computer Architecture & Parallel Processing Lab** ](http://capp.snu.ac.kr/) 
   * _Research Asistant_ (Jul 2018 ~)
 
 ### Education
