@@ -9,7 +9,7 @@ My name is Pham Quan Dũng. I am currently a Master student at Department of Ele
 ### Education
 ----
 *  _Seoul National University_, Seoul, Korea  (2018-2020) (expected)
-  * _Msc. of Electrical and Computer Engineering_
+  * _Master of Science in Electrical and Computer Engineering_
 
 
 * _Vietnam National University- Ho Chi Minh City- Ho Chi Minh City University of Technology_, HCM City, Vietnam (Sep 2012- Jan 2017)
