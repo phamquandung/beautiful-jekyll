@@ -25,7 +25,7 @@ description: La vie est bonne!
 navbar-links:
   About Me: "aboutme"
   My funny little world:
-    - Physics:
+    - Physics: "physics"
     - Coding:
     - English:
     - 한국어: 
