@@ -8,7 +8,7 @@ My name is Pham Quan Dũng. I am currently a Master student at Department of Ele
 
 ### Education
 ----
-*  _Seoul National University_, Seoul, Korea  (2018-2020) (expected)
+* _Seoul National University_, Seoul, Korea  (2018-2020) (expected)
   * _Master of Science in Electrical and Computer Engineering_
 
 
