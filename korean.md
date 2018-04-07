@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Korean
+title: 한국어 
 
 ---
 
-To be updated soon
+기다리세요!
