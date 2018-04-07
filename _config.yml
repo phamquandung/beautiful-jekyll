@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   My funny little world:
     - Physics:
+    - Coding:
     - English:
     - 한국어: 
   # Author's home: "http://deanattali.com"
