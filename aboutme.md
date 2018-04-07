@@ -24,9 +24,9 @@ My name is Pham Quan Dũng. I am currently a Master student in Department of Ele
 
 ### Honors and Awards
 ----
-2017-2020 Korean Goverment Scholarship Program for Graduate Degrees in Korea.
-2016      GKS (Global Korea Scholarship) for ASEAN countries SCIence and ENgineering Students.
-2015      First Prize in the National round of The 10th Annual International Microelectronics Olympiad of Armenia (AMO2015-UIT).
-2012      Honorable Mention for the Excellent Performance in Education by People’s Committee Chairman of Ho Chi Minh City in 2012.
-2012      Consolation Prize in Physics in the National Academic Competition (Vietnam National Physics Olympiad) in school year 2011-2012.
-2012      First Prize in Physics in the Municipal Academic Competition (Ho Chi Minh City Physics Olympiad) in school year 2011-2012.
+* 2017-2020 Korean Goverment Scholarship Program for Graduate Degrees in Korea.
+* 2016      GKS (Global Korea Scholarship) for ASEAN countries SCIence and ENgineering Students.
+* 2015      First Prize in the National round of The 10th Annual International Microelectronics Olympiad of Armenia (AMO2015-UIT).
+* 2012      Honorable Mention for the Excellent Performance in Education by People’s Committee Chairman of Ho Chi Minh City in 2012.
+* 2012      Consolation Prize in Physics in the National Academic Competition (Vietnam National Physics Olympiad) in school year 2011-2012.
+* 2012      First Prize in Physics in the Municipal Academic Competition (Ho Chi Minh City Physics Olympiad) in school year 2011-2012.
