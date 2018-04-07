@@ -30,3 +30,12 @@ My name is Pham Quan Dũng. I am currently a Master student in Department of Ele
 * **2012**      _Honorable Mention for the Excellent Performance in Education by People’s Committee Chairman of Ho Chi Minh City in 2012._
 * **2012**      _Consolation Prize in Physics in the National Academic Competition (Vietnam National Physics Olympiad) in school year 2011-2012._
 * **2012**      _First Prize in Physics in the Municipal Academic Competition (Ho Chi Minh City Physics Olympiad) in school year 2011-2012_.
+
+### Technical Skill
+---
+* **Programming:** _C/C++, Python, Matlab_
+* **Library:** _Tensorflow_
+
+### Language Skills
+---
+* **_English, Korean, Vietnamese_**
