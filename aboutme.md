@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Pham Quan Dũng. I am a Master student at Department of Electrical and Computer Enginnering, College of Engineering, Seoul National University
 
 ### my history
 
