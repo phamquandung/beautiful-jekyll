@@ -4,8 +4,16 @@ title: About Me
 
 ---
 
-My name is Pham Quan Dũng. I am a Master student at Department of Electrical and Computer Enginnering, College of Engineering, Seoul National University
+My name is Pham Quan Dũng. I am currently a Master student at Department of Electrical and Computer Enginnering, College of Engineering, Seoul National University
 
-### my history
+### Education
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**_Seoul National University, Seoul, Korea_**  (2018-2020) (expected)
+Msc. of Electrical and Computer Engineering
+**_Ho Chi Minh City University of Technology- Vietnam National University- Ho Chi Minh
+City_**, HCM City, Vietnam (Sep 2012- Jan 2017)
+Bachelor of Engineering in Electronics - Telecommunications Engineering.
+**High School for the Gifted-Vietnam National University- Ho Chi Minh City_**, HCM City,
+Vietnam
+Specialized in Physics- Member of Vietnam National University- Ho Chi Minh City Physics Olympiad
+Team.
