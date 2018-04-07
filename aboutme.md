@@ -7,8 +7,9 @@ title: About Me
 My name is Phạm Quan Dũng. I am currently a Master student in Department of Electrical and Computer Engineering, College of Engineering, Seoul National University, Seoul, Korea
 ### Research Experience
 ----
-* [ **Seoul National University, Computer Architecture & Parallel Processing Lab** ](http://capp.snu.ac.kr/) (Jul 2018 ~)
-  * _Research Asistant_
+* **Seoul National University**
+[**Computer Architecture & Parallel Processing Lab** ](http://capp.snu.ac.kr/) 
+  * _Research Asistant_ (Jul 2018 ~)
 
 ### Education
 ----
