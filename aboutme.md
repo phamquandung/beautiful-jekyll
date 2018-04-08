@@ -41,4 +41,4 @@ My name is Phạm Quan Dũng (Quan-Dung Pham). I am currently a Master student i
 
 ### Language Skills
 ---
-* **_Vietnamese, English, Korean, French_**
+* **_English, Korean, Vietnamese_**
