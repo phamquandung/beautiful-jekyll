@@ -36,8 +36,9 @@ My name is Phạm Quan Dũng (Quan-Dung Pham). I am currently a Master student i
 
 ### Technical Skill
 ---
-* **Programming:** _C/C++, Python, Matlab_
+* **Programming:** _Verilog, C/C++, Python, Matlab_
 * **Library:** _Tensorflow_
+* **Tool:** FPGA Xilinx UltraScale VCU108
 
 ### Language Skills
 ---
