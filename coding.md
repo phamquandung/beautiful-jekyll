@@ -4,4 +4,4 @@ title: Coding
 
 ---
 
-* [**Code** ](https://github.com/phamquandung) 
+* [**Verilog Code on Github** ](https://github.com/phamquandung) 
