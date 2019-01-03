@@ -37,7 +37,7 @@ My name is Phạm Quan Dũng (Quan-Dung Pham). I am currently a Master student i
 ### Technical Skill
 ---
 * **Programming:** _C/C++,  Matlab, Python_
-* **Hradware Design:** _Verilog_
+* **Hardware Design:** _Verilog_
 * **Tool:** _Xilinx toolset_
 
 ### Language Skills
