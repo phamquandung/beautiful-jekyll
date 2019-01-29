@@ -27,7 +27,7 @@ My name is Phạm Quan Dũng (Quan-Dung Pham). I am currently a Master student i
 
 ### Honors and Awards
 ----
-* **2017** _Korean Goverment Scholarship Program for Graduate Degrees in Korea (2017-2020)._
+* **2017** _Korean Government Scholarship Program for Graduate Degrees in Korea (2017-2020)._
 * **2016**      _GKS (Global Korea Scholarship) for ASEAN countries SCIence and ENgineering Students._
 * **2015**      _First Prize in the National round of The 10th Annual International Microelectronics Olympiad of Armenia (AMO2015-UIT)._
 * **2012**      _Honorable Mention for the Excellent Achievements in Education by People’s Committee Chairman of Ho Chi Minh City in 2012._
