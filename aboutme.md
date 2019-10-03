@@ -8,7 +8,7 @@ My name is Phạm Quan Dũng (Quan-Dung Pham). I am currently a Master student i
 ### Research Experience
 ----
 * [**Seoul National University, Computer Architecture & Parallel Processing Lab** ](http://capp.snu.ac.kr/) 
-  * _Research Asistant_ (Jul 2018 ~)
+  * _Research Assistant_ (Jul 2018 ~)
 
 ### Education
 ----
